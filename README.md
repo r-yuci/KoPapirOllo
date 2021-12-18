@@ -1,2 +1,2 @@
 # KoPapirOllo
-Just an unfinished school project of Rock Paper Scissors, to practice the basics od Android Studio
+Just an unfinished school project on Rock Paper Scissors, to practice the basics of Android Studio
